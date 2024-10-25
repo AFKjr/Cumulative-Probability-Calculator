@@ -30,7 +30,3 @@ where:
 
 3. **View the result**:
     The script will output the cumulative probability of obtaining the item at least once.
-
-### Example
-
-For a scenario where you have 50 base items and a 32% drop rate:
