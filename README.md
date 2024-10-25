@@ -21,7 +21,7 @@ where:
 
 1. **Run the script**:
     ```bash
-    python cumulative_probability_calculator.py
+    python CPC.py
     ```
 
 2. **Input values**:
