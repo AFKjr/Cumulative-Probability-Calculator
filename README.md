@@ -14,17 +14,13 @@ Based on these inputs, the script calculates:
 
 At the end, the script will ask if you got the item and display your actual success rate.
 
-### Example Usage
+### Example Usage 
 
-1. **Run the script**:
-    ```bash
-    python CPC.py
-    ```
-2. **Input values**:
+1. **Input values**:
     - Number of base items: x
     - Drop rate percentage: x
 
-3. **View results**:
+2. **View results**:
     - See the probability of getting the item with your inputs.
     - See attempts needed to reach specific success rates.
     - Confirm if you got the item and your success rate.
